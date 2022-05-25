@@ -9,3 +9,8 @@
 2. javac SeperateEnrollees.java
 3. java SeperateEnrollees "Data.csv" (I provided this sample data for testing.)
 4. Check <filename> after program finishes.
+
+## To Run RegisterUser React application
+1. cd into register-users directory
+2. Enter "npm install"
+3. Enter "npm start"
